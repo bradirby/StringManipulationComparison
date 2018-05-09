@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComparisonsAddingToList.cs" />
     <Compile Include="Comparisons.cs" />
+    <Compile Include="ComparisonAddingToListTests.cs" />
     <Compile Include="ComparisonTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
